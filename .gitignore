@@ -1,0 +1,14 @@
+# Archivos y directorios de sistema
+
+
+# Variables de entorno
+.env
+# Directorios de instalación y caché
+node_modules
+
+# Configuración de editor
+### VisualStudioCode ###
+
+
+# package-lock.json
+package-lock.json
